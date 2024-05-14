@@ -1,0 +1,5 @@
+{
+  "item.testmod.example_shield": "Example Shield",
+  "block.testmod.example_bed": "Example Bed",
+  "button.testmod.feature_placer.select": "Select"
+}

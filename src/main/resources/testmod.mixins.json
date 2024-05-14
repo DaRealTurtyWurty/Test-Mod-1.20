@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.turtywurty.testmod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "testmod.refmap.json",
+  "mixins": [
+    "AbstractCauldronBlockMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
